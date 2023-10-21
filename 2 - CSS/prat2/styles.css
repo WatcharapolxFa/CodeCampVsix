@@ -1,0 +1,8 @@
+body    {
+    background: url('https://picsum.photos/2000/1000/?random') no-repeat center center fixed;
+}
+.row1{
+    width: 50%;
+    background: rgba(255, 120, 100, 0.5);
+    color: whitesmoke;
+}
